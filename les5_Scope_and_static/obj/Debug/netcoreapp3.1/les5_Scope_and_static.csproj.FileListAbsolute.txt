@@ -1,0 +1,3 @@
+D:\Media colegge Amsterdam Programs\bewijzenmap\periode1.2\pro\les5_Scope_and_static\obj\Debug\netcoreapp3.1\les5_Scope_and_static.csprojAssemblyReference.cache
+D:\Media colegge Amsterdam Programs\bewijzenmap\periode1.2\pro\les5_Scope_and_static\obj\Debug\netcoreapp3.1\les5_Scope_and_static.AssemblyInfoInputs.cache
+D:\Media colegge Amsterdam Programs\bewijzenmap\periode1.2\pro\les5_Scope_and_static\obj\Debug\netcoreapp3.1\les5_Scope_and_static.AssemblyInfo.cs
